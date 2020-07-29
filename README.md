@@ -1,5 +1,7 @@
 ### Hi, I'm Ionuț 👋 👨‍💻
 
+I'm a software engineer... 🔭
+
 <!--
 **ionutdobre/ionutdobre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
